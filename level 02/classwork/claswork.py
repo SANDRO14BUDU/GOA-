@@ -1,0 +1,1 @@
+print("me var sandro mchedlidze var 14 wlis")
