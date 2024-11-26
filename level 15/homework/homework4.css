@@ -1,0 +1,12 @@
+.d1 input{
+    border-radius: 5px;
+    border: solid #ccc;
+    cursor: pointer;
+    border-width: 1px;
+
+}
+
+.d2 {
+    text-align: center;
+}
+
