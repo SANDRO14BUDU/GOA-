@@ -40,6 +40,9 @@ input[type="date"] {
 
 div {
     text-align: center;
+    width: 1000px;
+    height: 1000px;
+    color: #333;
 }
 
 button {
