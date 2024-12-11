@@ -2,6 +2,6 @@
 
 num = int(input('enter ur number and it will say it divisible by 5 or not: '))
 if num % 5 == 0:
-    print("რიცხვი 5-ზე უნაშთოდ იყოფა.")
+    print("its good")
 else:
-    print("რიცხვი 5-ზე არ იყოფა უნაშთოდ.")
+    print("nuh uh")
