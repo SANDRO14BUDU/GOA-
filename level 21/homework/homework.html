@@ -1,0 +1,44 @@
+<!-- 4)
+
+Color and Background Color
+
+Create a heading with a blue text color and a yellow background.
+Design a button with white text on a red background. -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- cota chemit davamate prosta -->
+    <style>
+        button {
+            background-color: red;
+            padding: 4px;
+            width: 100px;
+            border-radius: 4px;
+            cursor: pointer;
+            color: white;
+            transition: 1s;
+        }
+
+        button:hover {
+            background-color: blue;
+        }
+    </style>
+</head>
+<body>
+    <h1 style="color: blue; background-color: red;">this is h1 with inline css!</h1>
+    
+    <button onclick="k()">Click me!</button>
+    <p id="k" >hello</p>
+
+    <script>
+        function k(){
+            document.getElementById("k").innerHTML = "goodbye"
+        }
+    </script> 
+
+</body>
+</html>
