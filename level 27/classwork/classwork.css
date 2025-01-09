@@ -1,0 +1,11 @@
+/* ფერი, ფონის ფერი, განლაგება, ტექსტის ზომა, ტექსტის სისქე და საზღვარი */
+
+div {
+    color: green;
+    background-color: black;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 900px;
+    border: red solid 2px;
+
+}
