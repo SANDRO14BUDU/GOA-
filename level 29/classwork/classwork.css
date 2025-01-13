@@ -1,0 +1,49 @@
+/* Class Selector
+.description {
+    font-size: 18px;
+    color: purple;
+} */
+
+/* Element Selector */
+/* p {
+    font-family: Arial, sans-serif;
+    line-height: 1.5;
+} */
+
+
+
+/* Paragraph Styles Using RGB Colors */
+#paragraph-1 {
+    color: rgb(255, 255, 255); /* White */
+    background-color: rgb(0, 0, 0); /* Black background for visibility */
+}
+
+#paragraph-2 {
+    color: rgb(0, 0, 0); /* Black */
+    background-color: rgb(255, 255, 255); /* White background for visibility */
+}
+
+#paragraph-3 {
+    color: rgb(255, 0, 0); /* Red */
+}
+
+#paragraph-4 {
+    color: rgb(0, 255, 0); /* Green */
+}
+
+#paragraph-5 {
+    color: rgb(0, 0, 255); /* Blue */
+}
+
+#paragraph-6 {
+    color: rgb(255, 255, 0); /* Yellow */
+}
+
+#paragraph-7 {
+    color: rgb(0, 255, 255); /* Cyan */
+}
+
+#paragraph-8 {
+    color: rgb(128, 0, 128); /* Purple */
+}
+

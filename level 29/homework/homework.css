@@ -1,0 +1,20 @@
+/* Paragraph Styles Using ID Selectors */
+#para-1 {
+    color: rgb(128, 0, 0); /* Dark Red */
+}
+
+#para-2 {
+    color: rgb(0, 128, 0); /* Dark Green */
+}
+
+#para-3 {
+    color: rgb(0, 0, 128); /* Dark Blue */
+}
+
+#para-4 {
+    color: rgb(128, 128, 0); /* Olive */
+}
+
+#para-5 {
+    color: rgb(128, 0, 128); /* Purple */
+}

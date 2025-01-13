@@ -1,0 +1,27 @@
+#id {
+    color: blue;
+}
+
+.class {
+    background-color: aqua;
+}
+
+button {
+    border: none;
+    border-radius: 8px;
+    padding: 16px;
+    width: 180px;
+    display: flex;
+    justify-content: center;
+    margin-left: 1500px;
+    margin-top: 650px;
+    font-size: 30px;
+    cursor: pointer;
+}
+/* 
+button:hover {
+    font-size: 70px;
+    transition: 0.3s;
+    padding: 32px;
+    width: 370PX;
+} */
