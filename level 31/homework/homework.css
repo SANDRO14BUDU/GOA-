@@ -1,0 +1,40 @@
+p:nth-child(1) {
+    color: rgb(255, 0, 0); /* Red text */
+    background-color: rgb(240, 240, 240); /* Light gray background */
+}
+p:nth-child(2) {
+    color: rgb(0, 255, 0); /* Green text */
+    background-color: rgb(200, 200, 255); /* Light blue background */
+}
+p:nth-child(3) {
+    color: rgb(0, 0, 255); /* Blue text */
+    background-color: rgb(255, 230, 200); /* Light peach background */
+}
+p:nth-child(4) {
+    color: rgb(255, 255, 0); /* Yellow text */
+    background-color: rgb(220, 255, 220); /* Light green background */
+}
+p:nth-child(5) {
+    color: rgb(255, 0, 255); /* Magenta text */
+    background-color: rgb(255, 255, 200); /* Light yellow background */
+}
+p:nth-child(6) {
+    color: #ff4500; /* Orange red text */
+    background-color: #f0f8ff; /* Alice blue background */
+}
+p:nth-child(7) {
+    color: #008080; /* Teal text */
+    background-color: #ffe4b5; /* Moccasin background */
+}
+p:nth-child(8) {
+    color: #800080; /* Purple text */
+    background-color: #fafad2; /* Light goldenrod yellow background */
+}
+p:nth-child(9) {
+    color: #000080; /* Navy text */
+    /* background-color: #e0ffff; Light cyan background */
+}
+p:nth-child(10) {
+    color: #dc143c; /* Crimson text */
+    background-color: #f5f5dc; /* Beige background */
+}

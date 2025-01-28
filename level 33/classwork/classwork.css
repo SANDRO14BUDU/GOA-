@@ -1,0 +1,96 @@
+/* body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: #f9f9f9;
+}
+
+.text-container {
+    position: relative;
+    width: 80%;
+    max-width: 600px;
+    height: 80%;
+}
+
+.text {
+    position: absolute;
+    font-size: 1.5rem;
+}
+
+.hello {
+    top: 10px;
+    right: 20px;
+    text-decoration: underline;
+}
+
+.world {
+    top: 50px;
+    left: 20px;
+    text-decoration: line-through;
+}
+
+.goal {
+    top: 100px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-decoration: underline;
+}
+
+.oriented {
+    top: 150px;
+    right: 10px;
+}
+
+.academy {
+    top: 200px;
+    left: 30px;
+    text-decoration: line-through;
+}
+
+.is {
+    top: 250px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-decoration: underline;
+}
+
+.best {
+    bottom: 50px;
+    left: 20px;
+    font-weight: bold;
+    font-size: 2rem;
+    color: gray;
+}
+
+.the {
+    bottom: 20px;
+    left: 50%;
+    transform: translateX(-50%);
+    text-decoration: underline;
+    color: green;
+}
+
+.one {
+    bottom: 10px;
+    right: 30px;
+    text-decoration: underline dotted;
+} */
+
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+body {
+    font-family: 'Shadows Into Light', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f8ff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}

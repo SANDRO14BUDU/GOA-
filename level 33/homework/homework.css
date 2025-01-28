@@ -1,0 +1,5 @@
+.shadow-text {
+    font-size: 24px;
+    color: black;
+    text-shadow: 2px 2px 5px red;
+}
