@@ -1,0 +1,21 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    top: 0px;
+}
+
+li {
+    list-style: none;
+}
+
+li, ul, .main {
+    display: flex;
+    justify-content: flex-end;
+    gap: 40px;
+    font-size: 40px;
+}
+
+div {
+    margin-right: 100px;
+
+}
