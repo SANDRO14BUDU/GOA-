@@ -1,0 +1,28 @@
+/* #parent {
+    width: 70px;
+    height: 70px;
+    border: solid 5px black;
+    background-color: blueviolet;
+}
+
+#parent:active {
+    transform: rotate(30deg);
+} */
+
+.box {
+    width: 200px;
+    height: 100px;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: font-size 1s, color 2s, background-color 2s;
+}
+
+.box:active {
+    font-size: 25px;
+    color: black;
+    background-color: white;
+}
