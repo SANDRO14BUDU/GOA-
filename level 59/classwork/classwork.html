@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+    <meta charset="UTF-8">
+    <title>დივის სიგანის შეცვლა</title>
+    <style>
+        #myDiv {
+            width: 300px;
+            height: 200px;
+            background-color: #4caf50;
+            color: white;
+            text-align: center;
+            line-height: 200px;
+            transition: width 0.5s;
+        }
+
+        button {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="myDiv">მე ვარ დივი</div>
+<button onclick="expandDiv()">გადიდება</button>
+
+<script>
+    function expandDiv() {
+        document.getElementById("myDiv").style.width = "1000px";
+    }
+</script>
+
+</body>
+</html>

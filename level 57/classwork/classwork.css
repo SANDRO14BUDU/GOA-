@@ -1,0 +1,22 @@
+.parent {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-between;
+    gap: 10px;
+}
+
+.child {
+    flex: 1;
+    background-color: #a1c4fd;
+    padding: 20px;
+    text-align: center;
+    border: 1px solid #333;
+}
+
+
+@media (max-width: 800px) {
+    .parent {
+        flex-direction: column;
+    }
+}
